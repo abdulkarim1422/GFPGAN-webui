@@ -1,0 +1,1 @@
+streamlit run .\ui-inference_gfpgan.py

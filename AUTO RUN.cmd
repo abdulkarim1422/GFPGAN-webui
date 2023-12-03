@@ -1,0 +1,1 @@
+python inference_gfpgan.py -i inputs -o results
